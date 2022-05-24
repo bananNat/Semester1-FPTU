@@ -2,4 +2,3 @@
 
 Bài nào không có mô tả đề thì chịu.
 
-Và một số đề FE lụm được từ các anh chị.
